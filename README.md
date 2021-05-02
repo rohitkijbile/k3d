@@ -2,7 +2,7 @@
 
 ### General information.
 
-This needs docker as base for running the k3d infrastructure. In case you are using MAC/Windows then docker desktop is expected to be installed, if the linux distribution is used normal docker instalaltion is sufficiant.
+This needs docker as base for running the k3d infrastructure. In case you are using MAC/Windows then docker desktop is expected to be installed, if the linux distribution is used normal docker installation is sufficient..
 
 ### Installation on MAC
 ```
