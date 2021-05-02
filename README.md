@@ -23,7 +23,7 @@ k3d cluster create --config files/k3d.yaml
 Note:- The k3d.yaml file has all the required information to spin-up the cluster.
 Minimal required filelds are 
 - "image" -> which defines the k8s cluster version.
-- "servers" -> This defines the control palane nodes.
+- "servers" -> This defines the control plane nodes.
 - "agents" -> This defines the worker plane nodes.
 
 3 . Deleting cluster
